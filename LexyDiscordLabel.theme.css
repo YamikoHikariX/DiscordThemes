@@ -3,46 +3,12 @@
 * @author Yami
 * @description Changes Lexy's label
 * @version 1.0.0
-* @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
+* @updateUrl https://raw.githubusercontent.com/YamikoHikariX/DiscordThemes/main/LexyDiscordLabel.theme.css
 */
 
-/* .layout-1qmrhw { */
-    /* pointer-events: none; */
-	/* transition: transform 0.1s ease-in-out; */
-/* } */
 
-/* .member-2gU6Ar:hover .layout-1qmrhw { */
-    /* transform: translateX(250px); */
-/* } */
-
-/* .member-2gU6Ar { */
-	/* transition: transform 0.2s ease-in-out; */
-/* } */
-
-/* .username-h_Y3Us.desaturateUserColors-1O-G89.clickable-31pE3P::before { */
-	/* content: "Slut "; */
-	/* color: inherit; */
-/* } */
-
-/* li.messageListItem-ZZ7v6g:has(img[src="https://cdn.discordapp.com/avatars/265596222507712513/6846c60f3e841b9f602de718afd786e4.webp?size=80"]) > :last-child::before { */
-	/* visibility: visible; */
-	/* display: block; */
-	/* font-weight: bold; */
-	/* content: "\a ----------------------------------------------------------------------------\a Please, deny me forever, Goddess! <3 \a I am ready for years of excrutiating denial for your enjoyment! \a And please ignore whatever other complaints or accuses I say!"; */
-	/* color: inherit;	 */
-/* } */
-
-
-
-/* img[src="https://cdn.discordapp.com/avatars/265596222507712513/6846c60f3e841b9f602de718afd786e4.webp?size=80"] ~ div.messageContent-2t3eCI::after { */
-	/* visibility: visible; */
-	/* display: block; */
-	/* font-weight: bold; */
-	/* content: "\a ----------------------------------------------------------------------------\a Please, deny me forever, Goddess! <3 \a I am ready for years of excrutiating denial for your enjoyment! \a And please ignore whatever other complaints or accuses I say!"; */
-	/* color: inherit;	 */
-/* } */
-
-img[src="https://cdn.discordapp.com/avatars/265596222507712513/6846c60f3e841b9f602de718afd786e4.webp?size=80"] ~ h3.header-2jRmjb span.timestamp-p1Df1m.timestampInline-_lS3aK::after {
+img[src="https://cdn.discordapp.com/avatars/265596222507712513/6846c60f3e841b9f602de718afd786e4.webp?size=80"] ~ h3.header-2jRmjb::after {
 	content: "  *DENIED TOY* ";
 	color: rgb(0, 255, 237);
 }
+
